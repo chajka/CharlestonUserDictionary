@@ -1,0 +1,2 @@
+# CharlestonUserDictionary
+Charlestonに組み込むユーザー辞書
